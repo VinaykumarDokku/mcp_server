@@ -27,7 +27,7 @@
     "onnxruntime-web": "^1.22.0"
   },
   "devDependencies": {
-    "@huggingface/transformers": "^3.7.1",
+    "@huggingface/transformers": "^4.3.2",
     "prettier": "*"
   }
 }
